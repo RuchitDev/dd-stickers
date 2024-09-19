@@ -3,11 +3,9 @@
     "shareApp": "https://www.google.com/",
     "rateApp": "https://www.google.com/",
     "moreApp": "https://www.google.com/",
-    "privacyPolicy": "https://www.google.com/"
-    "main-Id": "ruchitlakhani2808@gmail.com",
-
+    "privacyPolicy": "https://www.google.com/",
+    "mail-Id": "ruchitlakhani2808@gmail.com",
     "rateTimer": 20,
-
     "isShowAvatar": false
   }
 }
