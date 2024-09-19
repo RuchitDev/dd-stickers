@@ -6,6 +6,7 @@
     "privacyPolicy": "https://www.google.com/",
     "mail-Id": "ruchitlakhani2808@gmail.com",
     "rateTimer": 20,
-    "isShowAvatar": false
+    "isShowAvatar": false,
+    "rateTimer": 20
   }
 }
